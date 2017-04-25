@@ -1,5 +1,5 @@
 
-package com.example.user.hw4_1;
+package com.example.user.myapplication;
 
 import android.content.Intent;
 import android.os.Bundle;
