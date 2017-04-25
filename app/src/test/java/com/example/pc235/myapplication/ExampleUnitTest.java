@@ -1,4 +1,4 @@
-package com.example.user.hw4_1;
+package com.example.user.myapplication;
 
 import org.junit.Test;
 
