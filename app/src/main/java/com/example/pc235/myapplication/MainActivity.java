@@ -1,5 +1,5 @@
 
-package com.example.user.myapplication;
+package com.example.pc235.myapplication;
 
 import android.content.Intent;
 import android.os.Bundle;
